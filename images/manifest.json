@@ -412,6 +412,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/E34_2/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "E34_2"
+                ]
+            },
+            "height": 568,
+            "width": 588,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/E34_2/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/E34_2/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/E34_2/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 19,
+                                                "height": 18
+                                            },
+                                            {
+                                                "width": 37,
+                                                "height": 36
+                                            },
+                                            {
+                                                "width": 74,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 147,
+                                                "height": 142
+                                            },
+                                            {
+                                                "width": 294,
+                                                "height": 284
+                                            },
+                                            {
+                                                "width": 588,
+                                                "height": 568
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 588,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/E34_2",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 568,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/E34_2/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

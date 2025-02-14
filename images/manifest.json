@@ -7,5 +7,87 @@
             "All images loaded in msrtx/BD_Nakht_a project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "BD_Nakht_A"
+                ]
+            },
+            "height": 5746,
+            "width": 10000,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 313,
+                                                "height": 180
+                                            },
+                                            {
+                                                "width": 625,
+                                                "height": 360
+                                            },
+                                            {
+                                                "width": 1250,
+                                                "height": 719
+                                            },
+                                            {
+                                                "width": 2500,
+                                                "height": 1437
+                                            },
+                                            {
+                                                "width": 5000,
+                                                "height": 2873
+                                            },
+                                            {
+                                                "width": 10000,
+                                                "height": 5746
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 10000,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 5746,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }

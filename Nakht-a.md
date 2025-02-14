@@ -1,4 +1,4 @@
-# Nakht's Book of the Dead (BM EA 10473,1)
+# Nakht's Book of the Dead (BM EA 10473-1)
 
 This is a short intro and the viewer will appear below:
 

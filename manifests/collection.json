@@ -1,0 +1,13 @@
+{
+  "id" : "https://msrtx.github.io/BD_Nakht_a/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in msrtx/BD_Nakht_a project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://msrtx.github.io/BD_Nakht_a/manifests/BD_Nakht_a.json",
+    "label" : "Book of the Dead of Nakht, BM EA 10473,1 "
+  } ]
+}

@@ -1,0 +1,52 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://msrtx.github.io/BD_Nakht_a/annotations/BD_Nakht_a.json",
+  "@type" : "sc:Manifest",
+  "label" : "Book of the Dead of Nakht, BM EA 10473,1 ",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Funerary manuscript belonging to the royal scribe and military commander Nakht. Late Eighteenth Dynasty, Thebes.",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "Photo by Marina Sartori. Courtesy of the Trustees of the British Museum.",
+  "sequences" : [ {
+    "@id" : "http://fd888246-ab9e-43da-9c1d-1b613ea8e851",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://100732b7-55d7-419c-9575-701a9ea05448",
+      "@type" : "sc:Canvas",
+      "label" : "Book of the Dead of Nakht, BM EA 10473,1 ",
+      "height" : 5746,
+      "width" : 10000,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://5ae8b26c-77eb-4961-978b-d25d39eb1ec9",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://msrtx.github.io/BD_Nakht_a/images/BD_Nakht_A",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 5746,
+          "width" : 10000
+        },
+        "on" : "http://100732b7-55d7-419c-9575-701a9ea05448"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ],
+  "thumbnail" : {
+    "@id" : "http://100732b7-55d7-419c-9575-701a9ea05448"
+  }
+}

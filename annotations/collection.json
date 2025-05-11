@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://msrtx.github.io/BD_Nakht_a/annotations/BD_Nakht_a.json" ],
+  "otherContent" : [ ],
   "@id" : "https://msrtx.github.io/BD_Nakht_a/annotations/collection.json",
   "label" : "All annotations loaded in msrtx/BD_Nakht_a project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"

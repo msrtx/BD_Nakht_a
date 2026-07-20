@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 37,
+    "height" : 51
+  }, {
+    "width" : 73,
+    "height" : 101
+  }, {
+    "width" : 146,
+    "height" : 201
+  }, {
+    "width" : 291,
+    "height" : 402
+  }, {
+    "width" : 581,
+    "height" : 804
+  }, {
+    "width" : 1161,
+    "height" : 1608
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1161,
+  "@id" : "https://msrtx.github.io/BD_Nakht_a/images/R7_TT181",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1608
+}

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 15,
+    "height" : 18
+  }, {
+    "width" : 29,
+    "height" : 36
+  }, {
+    "width" : 57,
+    "height" : 71
+  }, {
+    "width" : 114,
+    "height" : 142
+  }, {
+    "width" : 228,
+    "height" : 283
+  }, {
+    "width" : 456,
+    "height" : 566
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 456,
+  "@id" : "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 566
+}

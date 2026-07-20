@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 11,
+    "height" : 11
+  }, {
+    "width" : 22,
+    "height" : 22
+  }, {
+    "width" : 44,
+    "height" : 44
+  }, {
+    "width" : 87,
+    "height" : 87
+  }, {
+    "width" : 173,
+    "height" : 173
+  }, {
+    "width" : 345,
+    "height" : 346
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 345,
+  "@id" : "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 346
+}

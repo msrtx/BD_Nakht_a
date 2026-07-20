@@ -1305,6 +1305,87 @@
             ]
         },
         {
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "R7_Yuya"
+                ]
+            },
+            "height": 566,
+            "width": 456,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 15,
+                                                "height": 18
+                                            },
+                                            {
+                                                "width": 29,
+                                                "height": 36
+                                            },
+                                            {
+                                                "width": 57,
+                                                "height": 71
+                                            },
+                                            {
+                                                "width": 114,
+                                                "height": 142
+                                            },
+                                            {
+                                                "width": 228,
+                                                "height": 283
+                                            },
+                                            {
+                                                "width": 456,
+                                                "height": 566
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 456,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 566,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://msrtx.github.io/BD_Nakht_a/images/V30_Qenna/canvas/",
             "type": "Canvas",
             "label": {
@@ -1386,26 +1467,26 @@
             ]
         },
         {
-            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/canvas/",
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "R7_Yuya"
+                    "R7_Qenna"
                 ]
             },
-            "height": 566,
-            "width": 456,
+            "height": 346,
+            "width": 345,
             "items": [
                 {
-                    "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/annotation/AnnoPage",
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/annotation/",
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/full/full/0/default.jpg",
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -1426,41 +1507,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 15,
-                                                "height": 18
+                                                "width": 11,
+                                                "height": 11
                                             },
                                             {
-                                                "width": 29,
-                                                "height": 36
+                                                "width": 22,
+                                                "height": 22
                                             },
                                             {
-                                                "width": 57,
-                                                "height": 71
+                                                "width": 44,
+                                                "height": 44
                                             },
                                             {
-                                                "width": 114,
-                                                "height": 142
+                                                "width": 87,
+                                                "height": 87
                                             },
                                             {
-                                                "width": 228,
-                                                "height": 283
+                                                "width": 173,
+                                                "height": 173
                                             },
                                             {
-                                                "width": 456,
-                                                "height": 566
+                                                "width": 345,
+                                                "height": 346
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 456,
-                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya",
+                                        "width": 345,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 566,
+                                        "height": 346,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://msrtx.github.io/BD_Nakht_a/images/R7_Yuya/canvas/"
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/R7_Qenna/canvas/"
                         }
                     ]
                 }

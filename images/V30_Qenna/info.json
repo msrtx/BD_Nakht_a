@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 25,
+    "height" : 17
+  }, {
+    "width" : 50,
+    "height" : 33
+  }, {
+    "width" : 100,
+    "height" : 65
+  }, {
+    "width" : 199,
+    "height" : 130
+  }, {
+    "width" : 397,
+    "height" : 260
+  }, {
+    "width" : 793,
+    "height" : 519
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 793,
+  "@id" : "https://msrtx.github.io/BD_Nakht_a/images/V30_Qenna",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 519
+}

@@ -2,15 +2,48 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>BD Nakht - Digital Polychrome Palaeography Demo</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BD Nakht - Digital Polychrome Palaeography</title>
   <style>
-    body { margin:0; padding:0; background:#222; font-family:Arial, sans-serif; }
-    #mirador { width:100vw; height:100vh; }
-    h1 { position:absolute; top:10px; left:20px; color:white; z-index:10; background:rgba(0,0,0,0.5); padding:8px 16px; border-radius:4px; }
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: #f5f0e8;        /* soft beige */
+    }
+    
+    header {
+      background-color: #e8f0e0;        /* soft sage green */
+      color: #2c3e2f;
+      padding: 20px 30px;
+      text-align: center;
+      border-bottom: 3px solid #a8c4a0;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    
+    h1 {
+      margin: 0;
+      font-size: 1.8rem;
+    }
+    
+    .subtitle {
+      margin: 8px 0 0 0;
+      font-size: 1.1rem;
+      opacity: 0.9;
+    }
+    
+    #mirador {
+      width: 100vw;
+      height: calc(100vh - 120px);     /* leaves space for header */
+    }
   </style>
 </head>
 <body>
-  <h1>Book of the Dead of Nakht (BM EA 10473) — Sheet 1</h1>
+  
+  <header>
+    <h1>Book of the Dead of Nakht (BM EA 10473)</h1>
+    <p class="subtitle">Sheet 1 — Digital Polychrome Hieroglyphic Palaeography Demo</p>
+  </header>
   
   <div id="mirador"></div>
 

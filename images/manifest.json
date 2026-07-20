@@ -819,6 +819,87 @@
             ]
         },
         {
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Picture22"
+                ]
+            },
+            "height": 510,
+            "width": 511,
+            "items": [
+                {
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 16,
+                                                "height": 16
+                                            },
+                                            {
+                                                "width": 32,
+                                                "height": 32
+                                            },
+                                            {
+                                                "width": 64,
+                                                "height": 64
+                                            },
+                                            {
+                                                "width": 128,
+                                                "height": 128
+                                            },
+                                            {
+                                                "width": 256,
+                                                "height": 255
+                                            },
+                                            {
+                                                "width": 511,
+                                                "height": 510
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 511,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 510,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture3/canvas/",
             "type": "Canvas",
             "label": {
@@ -900,26 +981,26 @@
             ]
         },
         {
-            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/canvas/",
+            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture23/canvas/",
             "type": "Canvas",
             "label": {
                 "none": [
-                    "Picture22"
+                    "Picture23"
                 ]
             },
-            "height": 510,
-            "width": 511,
+            "height": 512,
+            "width": 513,
             "items": [
                 {
-                    "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/annotation/AnnoPage",
+                    "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture23/annotation/AnnoPage",
                     "type": "AnnotationPage",
                     "items": [
                         {
-                            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/annotation/",
+                            "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture23/annotation/",
                             "type": "Annotation",
                             "motivation": "painting",
                             "body": {
-                                "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/full/full/0/default.jpg",
+                                "id": "https://msrtx.github.io/BD_Nakht_a/images/Picture23/full/full/0/default.jpg",
                                 "type": "Image",
                                 "service": [
                                     {
@@ -940,41 +1021,41 @@
                                         "protocol": "http://iiif.io/api/image",
                                         "sizes": [
                                             {
-                                                "width": 16,
+                                                "width": 17,
                                                 "height": 16
                                             },
                                             {
-                                                "width": 32,
+                                                "width": 33,
                                                 "height": 32
                                             },
                                             {
-                                                "width": 64,
+                                                "width": 65,
                                                 "height": 64
                                             },
                                             {
-                                                "width": 128,
+                                                "width": 129,
                                                 "height": 128
                                             },
                                             {
-                                                "width": 256,
-                                                "height": 255
+                                                "width": 257,
+                                                "height": 256
                                             },
                                             {
-                                                "width": 511,
-                                                "height": 510
+                                                "width": 513,
+                                                "height": 512
                                             }
                                         ],
                                         "profile": "http://iiif.io/api/image/2/level0.json",
-                                        "width": 511,
-                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/Picture22",
+                                        "width": 513,
+                                        "@id": "https://msrtx.github.io/BD_Nakht_a/images/Picture23",
                                         "@context": "http://iiif.io/api/image/2/context.json",
-                                        "height": 510,
+                                        "height": 512,
                                         "@type": "ImageService2"
                                     }
                                 ],
                                 "format": "image/jpeg"
                             },
-                            "target": "https://msrtx.github.io/BD_Nakht_a/images/Picture22/canvas/"
+                            "target": "https://msrtx.github.io/BD_Nakht_a/images/Picture23/canvas/"
                         }
                     ]
                 }
